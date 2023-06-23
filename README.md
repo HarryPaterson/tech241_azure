@@ -8,7 +8,7 @@
 
 ### Cloud overview
 Azure is a cloud computing platform provided by Microsoft.
-It offers a wide range of services and solutions for building, deploying, and managing applications and services through Microsoft-managed data centers.
+Remote servers offer a wide range of on-demand services and solutions for building, deploying, and managing applications and services through Microsoft-managed data centers.
 Azure provides Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS) offerings.
 With Azure, you can create virtual machines, storage accounts, and networks to build your infrastructure.
 Azure offers a variety of services such as virtual machines, databases, web apps, AI services, IoT, and more, enabling developers to leverage different technologies and frameworks.
